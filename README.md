@@ -4,7 +4,7 @@ This project is an attempt at the React Native Engineer coding task for Gerald t
 
 ## App Preview
 
-![app preview](./src//assets/preview.mp4).
+![app preview](./src//assets/preview.gif).
 
 # 🛠 Tech Details
 
